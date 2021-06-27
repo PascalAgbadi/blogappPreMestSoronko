@@ -90,7 +90,7 @@ setState({...state, posts: state.posts})
     <div className="container">
       <div className="row"> 
       <div className="col-md-8 offset-md-2">
-        <h4 className="text-center mt-4">BLOG APP: PreMest Soronko Group 2</h4>
+        <h4 className="text-center mt-4">Pascal PreMest Blog App</h4>
       <form>
         <input
           type="text"
